@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1509119644 source:c:\users\said\desktop\strukture podataka i algoritmi\projekti\crtanje grafik funkcije\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<cmath>
+	"lista.h"
+
+1509008379 c:\users\said\desktop\strukture podataka i algoritmi\projekti\crtanje grafik funkcije\lista.h
+
