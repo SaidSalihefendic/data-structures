@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1508079521 source:c:\users\vrc\desktop\lista\lista.cpp
+	"lista.h"
+
+1508079767 c:\users\vrc\desktop\lista\lista.h
+
+1508079420 source:c:\users\vrc\desktop\lista\main.cpp
+	<iostream>
+	"lista.h"
+
+1508434972 source:c:\backup\diskd\strukture podataka i algoritmi\workspace\lista\lista.cpp
+	"lista.h"
+	<iostream>
+
+1508434508 c:\backup\diskd\strukture podataka i algoritmi\workspace\lista\lista.h
+	"lista.cpp"
+
+1508434786 source:c:\backup\diskd\strukture podataka i algoritmi\workspace\lista\main.cpp
+	<iostream>
+	"lista.h"
+
+1508436762 c:\backup\diskd\strukture podataka i algoritmi\workspace\lista\lista.cpp
+	"lista.h"
+	<iostream>
+
+1508579827 source:c:\users\said\desktop\strukture podataka i algoritmi\vjezbe\lista\lista.cpp
+	"lista.h"
+
+1508577230 c:\users\said\desktop\strukture podataka i algoritmi\vjezbe\lista\lista.h
+	"lista.cpp"
+
+1508579827 c:\users\said\desktop\strukture podataka i algoritmi\vjezbe\lista\lista.cpp
+	"lista.h"
+
+1508579809 source:c:\users\said\desktop\strukture podataka i algoritmi\vjezbe\lista\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"lista.h"
+
+1508579827 source:c:\users\said\desktop\strukture podataka i algoritmi\projekti\lista sa mergesortom\lista.cpp
+	"lista.h"
+
+1508577230 c:\users\said\desktop\strukture podataka i algoritmi\projekti\lista sa mergesortom\lista.h
+	"lista.cpp"
+
+1508579827 c:\users\said\desktop\strukture podataka i algoritmi\projekti\lista sa mergesortom\lista.cpp
+	"lista.h"
+
+1508708289 source:c:\users\said\desktop\strukture podataka i algoritmi\projekti\lista sa mergesortom\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"lista.h"
+
