@@ -1,2 +1,2 @@
 # data-structures
-An implementation of data structures (UNI PROJECTS)
+Uni projects in Data Structures and Algorithms course in University of Sarajevo
